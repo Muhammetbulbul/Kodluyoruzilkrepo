@@ -14,7 +14,8 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 linux için:
 
-``` (cd kodluyoruzilkrepocode.) 
+```
+ (cd kodluyoruzilkrepocode.) 
 ```
 
 # Contributing 
