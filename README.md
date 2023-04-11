@@ -16,3 +16,6 @@ linux için:
 ```
 (cd kodluyoruzilkrepo
 code.)```
+
+
+ 
