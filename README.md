@@ -13,9 +13,9 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 
 linux için:
-```
-(cd kodluyoruzilkrepo
-code.)```
+```(cd kodluyoruzilkrepocode.)```
+# Contributing 
+Pull requestler kabul edilir.Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-
- 
+# Lincese
+[MIT](
