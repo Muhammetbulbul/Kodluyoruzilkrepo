@@ -3,7 +3,7 @@ Bu repo [kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğ
 
 # Installation
 Öncelikle projeyi clonelayın (https://github.com/Muhammetbulbul/Kodluyoruzilkrepo.git).  
-> git clone https://github.com/Muhammetbulbul/Kodluyoruzilkrepo.git
+> **git clone** https://github.com/Muhammetbulbul/Kodluyoruzilkrepo.git
 
 
 # Usage
