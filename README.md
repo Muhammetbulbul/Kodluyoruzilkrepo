@@ -13,7 +13,6 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 
 linux için:
+```
 (cd kodluyoruzilkrepo
-code.)
-
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+code.)```
